@@ -3,6 +3,7 @@ baseurl = "https://example.com/"
 languageCode = "en"
 
 theme = "hyde-hyde"
+publishDir = "docs"
 
 ## Hugo Built-in Features
 # disqusShortname = ""
