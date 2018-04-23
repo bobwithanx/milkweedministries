@@ -3,106 +3,106 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://example.com/posts/creating-a-new-theme/</loc>
+    <loc>http://milkweedministries.org/posts/creating-a-new-theme/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/posts/migrate-from-jekyll/</loc>
+    <loc>http://milkweedministries.org/posts/migrate-from-jekyll/</loc>
     <lastmod>2014-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/posts/goisforlovers/</loc>
+    <loc>http://milkweedministries.org/posts/goisforlovers/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/posts/hugoisforlovers/</loc>
+    <loc>http://milkweedministries.org/posts/hugoisforlovers/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/</loc>
+    <loc>http://milkweedministries.org/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.com/about/</loc>
+    <loc>http://milkweedministries.org/about/</loc>
   </url>
   
   <url>
-    <loc>https://example.com/categories/</loc>
+    <loc>http://milkweedministries.org/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.com/fasting/</loc>
+    <loc>http://milkweedministries.org/fasting/</loc>
   </url>
   
   <url>
-    <loc>https://example.com/tags/development/</loc>
+    <loc>http://milkweedministries.org/tags/development/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.com/categories/development/</loc>
+    <loc>http://milkweedministries.org/categories/development/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.com/tags/go/</loc>
+    <loc>http://milkweedministries.org/tags/go/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.com/tags/golang/</loc>
+    <loc>http://milkweedministries.org/tags/golang/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.com/categories/golang/</loc>
+    <loc>http://milkweedministries.org/categories/golang/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.com/tags/hugo/</loc>
+    <loc>http://milkweedministries.org/tags/hugo/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.com/posts/</loc>
+    <loc>http://milkweedministries.org/posts/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.com/tags/</loc>
+    <loc>http://milkweedministries.org/tags/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.com/tags/templates/</loc>
+    <loc>http://milkweedministries.org/tags/templates/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.com/tags/themes/</loc>
+    <loc>http://milkweedministries.org/tags/themes/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.com/wailing-women/</loc>
+    <loc>http://milkweedministries.org/wailing-women/</loc>
   </url>
   
 </urlset>

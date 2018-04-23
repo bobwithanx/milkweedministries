@@ -3,8 +3,6 @@ title: "About Us"
 draft: false
 ---
 
-![about-us.png
-](/img/about-us.png)
 # OUR MISSION
 Creating spaces for justice-minded people who love Jesus to come alive and take action.
 
