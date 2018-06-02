@@ -2,6 +2,7 @@
 title: "About Us"
 showpagemeta: false
 draft: false
+type: about
 ---
 
 # OUR MISSION

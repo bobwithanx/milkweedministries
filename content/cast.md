@@ -1,10 +1,8 @@
 ---
-title: "CAST"
-showpagetitle: false
+title: "CAST (Coming Alive, Scheming Together)"
 showpagemeta: false
 draft: false
 ---
-![CAST Logo](/img/cast-logo.png)
 
 CAST (Coming Alive, Scheming Together) is an inclusive event series that connects justice-minded women, and those who identify as women, who love Jesus. It is what you get when you mix women + TED-style talks + a variety show with social justice flare + the Spirit’s movement. We operate as a switchboard, connecting you with ideas, people, and organizations so you can plug in with your unique passions and gifts.
 
