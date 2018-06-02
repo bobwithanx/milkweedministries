@@ -1,12 +1,10 @@
 <div class="post">
-  {{ if ne .Params.showpagetitle false }}
   <h1 class="post-title">{{ .Title }}</h1>
-  {{ end }}
   {{ if ne .Params.showpagemeta false }}
   <div class="col-sm-12 col-md-12">
     <span class="text-left post-date meta">
-      <!-- published date -->
-      {{ if not .Date.IsZero }}
+      <!-- published date -->      
+      {{ if not .Date.IsZero }} 
         <i class="fas fa-calendar-alt"></i> {{ .Date.Format (.Site.Params.dateformat | default "Jan 02, 2006") -}}
       {{ end }}
       <!-- categories -->
@@ -32,8 +30,8 @@
         {{ end }}
       {{ end }}
       {{ end }}
-      </span>
-  </div>
+      </span>  
+  </div>    
   {{ end }}
   {{ .Content }}
 </div>

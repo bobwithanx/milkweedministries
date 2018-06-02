@@ -1,5 +1,6 @@
 ---
 title: "Day One Fasting And Prayer"
+showpagemeta: false
 draft: false
 ---
 

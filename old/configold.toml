@@ -1,8 +1,9 @@
 ## Basic Configuration
-baseurl = "http://www.milkweedministries.org/"
+baseurl = "http://www.milkweedministries.com/"
 languageCode = "en"
 
-theme = "hyde-hyde"
+theme = "hugrid"
+publishDir = "docs"
 
 ## Hugo Built-in Features
 # disqusShortname = ""
@@ -29,15 +30,10 @@ theme = "hyde-hyde"
 
 ## Main Menu
 [[menu.main]]
-    name = "CAST"
-    weight = 100
-    identifier = "cast"
-    url = "/cast/"
-[[menu.main]]
-    name = "Verses 3 to 5"
-    weight = 500
-    identifier = "verses3to5"
-    url = "/verses3to5/"
+    name = "Projects"
+    weight = 300
+    identifier = "projects"
+    url = "/projects/"
 [[menu.main]]
     name = "Fasting & Prayer"
     weight = 200
@@ -51,5 +47,5 @@ theme = "hyde-hyde"
 [[menu.main]]
     name = "About Us"
     identifier = "about"
-    weight = 4000
+    weight = 400
     url = "/about/"

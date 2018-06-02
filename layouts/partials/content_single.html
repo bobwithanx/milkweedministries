@@ -1,6 +1,6 @@
 <div class="post">
   {{ if ne .Params.showpagetitle false }}
-  <h1 class="post-title">{{ .Title }}</h1>
+  <h1>{{ .Title }}</h1>
   {{ end }}
   {{ if ne .Params.showpagemeta false }}
   <div class="col-sm-12 col-md-12">
@@ -32,6 +32,8 @@
         {{ end }}
       {{ end }}
       {{ end }}
+      <br/>
+      <i class="fas fa-clock"></i> {{ .ReadingTime }} min read
       </span>
   </div>
   {{ end }}
