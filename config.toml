@@ -1,5 +1,5 @@
 ## Basic Configuration
-baseurl = "http://www.milkweedministries.org/"
+baseurl = "http://www.milkweedministries.com/"
 languageCode = "en"
 
 theme = "hyde-hyde"
