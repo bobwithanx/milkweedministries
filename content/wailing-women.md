@@ -1,6 +1,7 @@
 ---
 title: "Wailing Women"
 showpagemeta: false
+aliases: ['/2017/10/13/wailing-women/']
 draft: false
 ---
 
