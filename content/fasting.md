@@ -1,6 +1,7 @@
 ---
 title: "Day One Fasting And Prayer"
 showpagemeta: false
+aliases: ['/2017/02/12/fasting/']
 draft: false
 ---
 
